@@ -1,0 +1,2 @@
+# Old poster for the SW project #
+![http://svn.codespot.com/a/eclipselabs.org/reprotool/wiki/img/swproj-poster-v1.png](http://svn.codespot.com/a/eclipselabs.org/reprotool/wiki/img/swproj-poster-v1.png)
